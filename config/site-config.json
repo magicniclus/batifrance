@@ -1,42 +1,42 @@
 {
   "company": {
-    "name": "Oleg Bâtiment",
-    "legalName": "Oleg Bâtiment SARL",
-    "address": "Île-de-France, France",
-    "phone": "06 05 59 88 97",
-    "email": "exfactor.fr@gmail.com",
+    "name": "Bati France",
+    "legalName": "Bati France",
+    "address": "17 avenue Gambetta, Paris 75020",
+    "phone": "+33 6 59 69 94 15",
+    "email": "batifrance@outlook.fr",
     "siret": "À définir",
-    "ceo": "Oleg"
+    "ceo": "Bati France"
   },
   "hero": {
-    "title": "ExFactor : Rénovation haut de gamme de votre bien en Île-de-France",
-    "subtitle": "Artisan qualifié pour tous vos travaux de rénovation",
-    "buttonText": "Demander un devis",
+    "title": "Bati France, tous les métiers pour vos projets",
+    "subtitle": "Des prestations de qualité pour tous vos projets de construction et rénovation",
+    "buttonText": "Devis",
     "buttonHref": "#contact",
     "backgroundImage": "/image-client/hero.png",
-    "backgroundVideo": null
+    "backgroundVideo": "/video.mp4"
   },
   "about": {
     "sections": [
       {
-        "smallTitle": "Notre savoir-faire",
-        "title": "Expertise multi-métiers du bâtiment",
-        "subtitle": "Électricité, placo peinture, menuiserie, cuisine & salle de bains, rénovation globale, sols carrelage",
-        "content": "Spécialisés dans l'électricité, le placo peinture, la menuiserie, les cuisines & salles de bains, la rénovation globale et sols carrelage, nous intervenons sur tous types de chantiers en Île-de-France. Notre équipe de 3 collaborateurs qualifiés vous garantit des travaux conformes aux normes en vigueur, avec la sécurité d'une garantie décennale. Nous privilégions la qualité et la satisfaction client sur chaque intervention.",
+        "smallTitle": "Notre expertise",
+        "title": "Bati France - Votre partenaire BTP",
+        "subtitle": "Nous sommes spécialisés dans tous les corps d'état",
+        "content": "Nous sommes spécialisés dans tous les corps d'état, garantissant qualité et respect des délais pour vos projets de construction et rénovation. Avec plus de 5 ans d'expérience, notre équipe réalise des chantiers variés, du sinistre à la transformation complète d'appartements.",
         "gradientFrom": "#2563eb",
         "gradientTo": "#3b82f6",
-        "buttonText": "Voir nos prestations",
-        "buttonHref": "#services",
+        "buttonText": "Contactez-nous",
+        "buttonHref": "#contact",
         "reversed": false
       },
       {
-        "smallTitle": "Notre zone d'intervention",
-        "title": "Service de proximité en Île-de-France",
-        "subtitle": "Intervention dans un rayon de 100km",
-        "content": "Basés en Île-de-France, nous intervenons dans un rayon de 100 kilomètres pour répondre rapidement à vos besoins. Que ce soit pour une installation électrique, des travaux de placo peinture, menuiserie, cuisine & salle de bains, rénovation globale ou sols carrelage, nous nous déplaçons chez vous avec tout le matériel nécessaire. Notre proximité géographique nous permet d'assurer un suivi personnalisé et des délais d'intervention optimisés.",
+        "smallTitle": "Notre localisation",
+        "title": "Notre Localisation",
+        "subtitle": "17 avenue Gambetta, Paris 75020",
+        "content": "Bati France est situé au 17 avenue Gambetta, Paris 75020, offrant des services de BTP de qualité dans toute la région. Nous sommes spécialisés dans tous les métiers pour vos projets. Horaires : Lundi à Samedi.",
         "gradientFrom": "#059669",
         "gradientTo": "#10b981",
-        "buttonText": "Vérifier votre zone",
+        "buttonText": "Nous contacter",
         "buttonHref": "#contact",
         "reversed": true,
         "image": "/image-client/chantier/vinght-trois.jpeg"
@@ -45,142 +45,37 @@
   },
   "gallery": {
     "title": "Nos Réalisations",
-    "subtitle": "Découvrez nos travaux d'électricité, placo peinture, menuiserie, cuisine & salle de bains, rénovation globale et sols carrelage en Île-de-France",
-    "initialDisplayCount": 4,
+    "subtitle": "Découvrez nos travaux de qualité dans divers domaines du bâtiment pour tous vos projets",
+    "initialDisplayCount": 3,
     "images": [
       {
-        "src": "/image-client/chantier/dix.jpeg",
-        "alt": "Réalisation chantier 1 - Île-de-France",
+        "src": "/image-client/chantier/1.avif",
+        "alt": "Réalisation chantier 1 - Bati France",
         "title": "Réalisation chantier 1"
       },
       {
-        "src": "/image-client/chantier/deux.jpeg",
-        "alt": "Réalisation chantier 2 - Île-de-France",
+        "src": "/image-client/chantier/2.avif",
+        "alt": "Réalisation chantier 2 - Bati France",
         "title": "Réalisation chantier 2"
       },
       {
-        "src": "/image-client/chantier/trois.jpeg",
-        "alt": "Réalisation chantier 3 - Île-de-France",
+        "src": "/image-client/chantier/3.avif",
+        "alt": "Réalisation chantier 3 - Bati France",
         "title": "Réalisation chantier 3"
-      },
-      {
-        "src": "/image-client/chantier/quatre.jpeg",
-        "alt": "Réalisation chantier 4 - Île-de-France",
-        "title": "Réalisation chantier 4"
-      },
-      {
-        "src": "/image-client/chantier/cinq.jpeg",
-        "alt": "Réalisation chantier 5 - Île-de-France",
-        "title": "Réalisation chantier 5"
-      },
-      {
-        "src": "/image-client/chantier/six.jpeg",
-        "alt": "Réalisation chantier 6 - Île-de-France",
-        "title": "Réalisation chantier 6"
-      },
-      {
-        "src": "/image-client/chantier/sept.jpeg",
-        "alt": "Réalisation chantier 7 - Île-de-France",
-        "title": "Réalisation chantier 7"
-      },
-      {
-        "src": "/image-client/chantier/huit.jpeg",
-        "alt": "Réalisation chantier 8 - Île-de-France",
-        "title": "Réalisation chantier 8"
-      },
-      {
-        "src": "/image-client/chantier/neuf.jpeg",
-        "alt": "Réalisation chantier 9 - Île-de-France",
-        "title": "Réalisation chantier 9"
-      },
-      {
-        "src": "/image-client/chantier/un.jpeg",
-        "alt": "Réalisation chantier 10 - Île-de-France",
-        "title": "Réalisation chantier 10"
-      },
-      {
-        "src": "/image-client/chantier/onze.jpeg",
-        "alt": "Réalisation chantier 11 - Île-de-France",
-        "title": "Réalisation chantier 11"
-      },
-      {
-        "src": "/image-client/chantier/douze.jpeg",
-        "alt": "Réalisation chantier 12 - Île-de-France",
-        "title": "Réalisation chantier 12"
-      },
-      {
-        "src": "/image-client/chantier/treise.jpeg",
-        "alt": "Réalisation chantier 13 - Île-de-France",
-        "title": "Réalisation chantier 13"
-      },
-      {
-        "src": "/image-client/chantier/quatorze.jpeg",
-        "alt": "Réalisation chantier 14 - Île-de-France",
-        "title": "Réalisation chantier 14"
-      },
-      {
-        "src": "/image-client/chantier/quinze.jpeg",
-        "alt": "Réalisation chantier 15 - Île-de-France",
-        "title": "Réalisation chantier 15"
-      },
-      {
-        "src": "/image-client/chantier/seize.jpeg",
-        "alt": "Réalisation chantier 16 - Île-de-France",
-        "title": "Réalisation chantier 16"
-      },
-      {
-        "src": "/image-client/chantier/dix-sept.jpeg",
-        "alt": "Réalisation chantier 17 - Île-de-France",
-        "title": "Réalisation chantier 17"
-      },
-      {
-        "src": "/image-client/chantier/dix-huit.jpeg",
-        "alt": "Réalisation chantier 18 - Île-de-France",
-        "title": "Réalisation chantier 18"
-      },
-      {
-        "src": "/image-client/chantier/dix-neuf.jpeg",
-        "alt": "Réalisation chantier 19 - Île-de-France",
-        "title": "Réalisation chantier 19"
-      },
-      {
-        "src": "/image-client/chantier/vinght.jpeg",
-        "alt": "Réalisation chantier 20 - Île-de-France",
-        "title": "Réalisation chantier 20"
-      },
-      {
-        "src": "/image-client/chantier/vinght-un.jpeg",
-        "alt": "Réalisation chantier 21 - Île-de-France",
-        "title": "Réalisation chantier 21"
-      },
-      {
-        "src": "/image-client/chantier/vinght-deux.jpeg",
-        "alt": "Réalisation chantier 22 - Île-de-France",
-        "title": "Réalisation chantier 22"
-      },
-      {
-        "src": "/image-client/chantier/vinght-trois.jpeg",
-        "alt": "Réalisation chantier 23 - Île-de-France",
-        "title": "Réalisation chantier 23"
-      },
-      {
-        "src": "/image-client/chantier/vinght-quatre.jpeg",
-        "alt": "Réalisation chantier 24 - Île-de-France",
-        "title": "Réalisation chantier 24"
       }
     ]
   },
   "contact": {
     "title": "Contactez-nous",
-    "subtitle": "Devis gratuit et personnalisé pour vos travaux en Île-de-France"
+    "subtitle": "Devis gratuit et personnalisé pour tous vos projets de construction et rénovation"
   },
   "team": {
     "members": [
       {
-        "name": "Oleg",
-        "position": "Artisan du bâtiment",
-        "description": "Spécialisés en électricité, placo peinture, menuiserie, cuisine & salle de bains, rénovation globale et sols carrelage en Île-de-France. Notre équipe de 3 collaborateurs qualifiés intervient dans un rayon de 100km avec garantie décennale. Nous nous engageons à fournir des prestations de qualité avec des finitions soignées.",
-        "photo": "/image-client/client.jpg"
+        "name": "Équipe Bati France",
+        "position": "Spécialistes BTP",
+        "description": "Avec plus de 5 ans d'expérience, notre équipe réalise des chantiers variés, du sinistre à la transformation complète d'appartements. Nous sommes spécialisés dans tous les corps d'état, garantissant qualité et respect des délais pour vos projets.",
+        "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face"
       }
     ]
   },

@@ -24,12 +24,12 @@ export default function Hero({
   config,
   backgroundImage,
   backgroundVideo,
-  title = "Trouvez le professionnel idéal pour vos travaux",
-  description = "Spécialiste du secteur du bâtiment, nous vous accompagnons dans tous vos projets de construction et rénovation avec des artisans qualifiés.",
+  title = "Bati France, tous les métiers pour vos projets",
+  description = "Des prestations de qualité pour tous vos projets de construction et rénovation",
   bulletPoints = [
-    "Équipe de 3 collaborateurs qualifiés",
-    "Garantie décennale sur tous nos travaux",
-    "Intervention dans un rayon de 100km"
+    "Plus de 5 ans d'expérience",
+    "Spécialisés dans tous les corps d'état",
+    "Qualité et respect des délais garantis"
   ],
   googleReviewsWidget
 }: HeroProps) {

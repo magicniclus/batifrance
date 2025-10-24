@@ -18,7 +18,7 @@ export default function Navigation() {
   const [isOpen, setIsOpen] = useState(false);
   const [showFloatingButton, setShowFloatingButton] = useState(false);
   const [isMounted, setIsMounted] = useState(false);
-  const phoneNumber = "06 05 59 88 97";
+  const phoneNumber = "+33 6 59 69 94 15";
 
   useEffect(() => {
     setIsMounted(true);
@@ -74,7 +74,7 @@ export default function Navigation() {
           >
             <a href="/" className="flex items-center justify-center">
               <motion.div 
-                className="h-28 w-auto rounded-xl p-2"
+                className="h-20 w-auto rounded-xl p-2 bg-slate-900"
                 whileHover={isMounted ? { scale: 1.05 } : {}}
                 transition={{ type: "spring", stiffness: 300 }}
               >
@@ -83,7 +83,7 @@ export default function Navigation() {
                   alt="Olege Bâtiment - Électricité, Peinture, Plâtrerie"
                   width={220}
                   height={60}
-                  className="h-24 w-auto object-contain"
+                  className="h-16 w-auto object-contain"
                 />
               </motion.div>
             </a>

@@ -36,7 +36,7 @@ export default function Footer() {
                 >
                   <Image
                     src="/logo.png"
-                    alt="Olege Bâtiment - Électricité, Peinture, Plâtrerie"
+                    alt="Bati France - Tous les métiers du BTP"
                     width={120}
                     height={48}
                     className="h-12 w-auto object-contain brightness-0 invert"
@@ -44,13 +44,13 @@ export default function Footer() {
                 </motion.div>
               </div>
               <p className="text-slate-300 text-sm leading-relaxed">
-                Artisans spécialisés en électricité, peinture et plâtrerie en Île-de-France. Équipe de 3 collaborateurs qualifiés avec garantie décennale.
+                Spécialisés dans tous les corps d'état, nous garantissons qualité et respect des délais pour vos projets de construction et rénovation.
               </p>
               <a 
-                href="mailto:exfactor.fr@gmail.com" 
+                href="mailto:batifrance@outlook.fr" 
                 className="text-primary hover:text-primary/80 text-sm font-medium transition-colors"
               >
-                exfactor.fr@gmail.com
+                batifrance@outlook.fr
               </a>
             </motion.div>
 
@@ -89,14 +89,14 @@ export default function Footer() {
               <h3 className="text-lg font-semibold">Contact</h3>
               <div className="space-y-2">
                 <a 
-                  href="tel:0605598897"
+                  href="tel:+33659699415"
                   className="text-slate-300 hover:text-white text-sm transition-colors duration-200 block flex items-center space-x-2"
                 >
                   <Phone className="h-4 w-4" />
-                  <span>06 05 59 88 97</span>
+                  <span>+33 6 59 69 94 15</span>
                 </a>
                 <p className="text-slate-400 text-xs">
-                  Disponible du lundi au samedi de 8h à 18h
+                  Disponible du lundi à samedi
                 </p>
               </div>
             </motion.div>
@@ -114,7 +114,7 @@ export default function Footer() {
               transition={{ duration: 0.6, delay: 0.3 }}
               viewport={{ once: true }}
             >
-              © {currentYear} Olege Bâtiment. Tous droits réservés.
+              © {currentYear} Bati France. Tous droits réservés.
             </motion.p>
 
             {/* Powered by */}

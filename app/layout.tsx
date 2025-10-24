@@ -5,8 +5,8 @@ import Footer from "../components/Footer";
 import Script from "next/script";
 
 export const metadata: Metadata = {
-  title: "Olege Bâtiment - Électricité, Peinture & Plâtrerie en Île-de-France",
-  description: "Olege Bâtiment, équipe de 3 collaborateurs spécialisés en électricité, peinture et plâtrerie en Île-de-France. Garantie décennale et intervention dans un rayon de 100km.",
+  title: "Bati France - Tous les métiers du BTP à Paris 75020",
+  description: "Bati France, spécialisés dans tous les corps d'état pour vos projets de construction et rénovation. Plus de 5 ans d'expérience. 17 avenue Gambetta, Paris 75020.",
 };
 
 export default function RootLayout({

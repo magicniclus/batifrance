@@ -283,7 +283,7 @@ export default function CGVPage() {
                 <Calendar className="h-5 w-5 text-gray-600" />
                 <span className="text-sm font-semibold text-gray-700">Dernière mise à jour</span>
               </div>
-              <p className="text-gray-600">25 août 2025</p>
+              <p className="text-gray-600">24 octobre 2025</p>
             </div>
           </motion.div>
         </div>

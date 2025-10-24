@@ -50,16 +50,16 @@ export default function MentionsLegalesPage() {
               </div>
               
               <div className="space-y-4 text-gray-600">
-                <p><strong>Dénomination :</strong> EXFACTOR</p>
-                <p><strong>SIREN :</strong> 948 694 757</p>
-                <p><strong>Siège social :</strong> 56 RUE de la Noise 92140 Clamart FRANCE</p>
-                <p><strong>Capital social :</strong> 1000 EUR</p>
-                <p><strong>Forme juridique :</strong> Société à responsabilité limitée à associé unique (SARLU ou EURL)</p>
+                <p><strong>Dénomination :</strong> Bati France</p>
+                <p><strong>SIREN :</strong> À définir</p>
+                <p><strong>Siège social :</strong> 17 avenue Gambetta, Paris 75020</p>
+                <p><strong>Capital social :</strong> À définir</p>
+                <p><strong>Forme juridique :</strong> À définir</p>
                 <p><strong>Code APE :</strong> 41.20B - Construction d'autres bâtiments</p>
                 <p><strong>Code APRM :</strong> 41.20B.8 - Réhabilitation de bâtiments</p>
-                <p><strong>Date de début d'activité :</strong> 19/01/2023</p>
+                <p><strong>Date de début d'activité :</strong> À définir</p>
                 <p><strong>Nature de l'activité :</strong> Artisanale réglementée</p>
-                <p><strong>Activité principale :</strong> Travaux de second œuvre dans le bâtiment, rénovation immobilière de tout type d'habitat, rénovation des murs, sols, plafonds ainsi que travaux d'électricité et de plomberie</p>
+                <p><strong>Activité principale :</strong> Spécialisés dans tous les corps d'état pour vos projets de construction et rénovation</p>
               </div>
             </div>
 
@@ -67,9 +67,9 @@ export default function MentionsLegalesPage() {
             <div className="bg-white rounded-2xl shadow-lg p-8 border border-gray-100">
               <h2 className="text-2xl font-bold text-gray-900 mb-6">Directeur de publication</h2>
               <div className="space-y-4 text-gray-600">
-                <p><strong>Nom :</strong> ROMANIUC OLEG</p>
+                <p><strong>Nom :</strong> Bati France</p>
                 <p><strong>Qualité :</strong> Gérant</p>
-                <p><strong>Date de naissance :</strong> 09/1991</p>
+                <p><strong>Date de naissance :</strong> À définir</p>
               </div>
             </div>
 
@@ -85,9 +85,9 @@ export default function MentionsLegalesPage() {
               </div>
               
               <div className="space-y-4 text-gray-600">
-                <p><strong>Adresse :</strong> 56 RUE de la Noise 92140 Clamart FRANCE</p>
-                <p><strong>Téléphone :</strong> <a href="tel:0605598897" className="text-gray-600 hover:text-gray-800 transition-colors">06 05 59 88 97</a></p>
-                <p><strong>Email :</strong> <a href="mailto:exfactor.fr@gmail.com" className="text-gray-600 hover:text-gray-800 transition-colors">exfactor.fr@gmail.com</a></p>
+                <p><strong>Adresse :</strong> 17 avenue Gambetta, Paris 75020</p>
+                <p><strong>Téléphone :</strong> <a href="tel:+33659699415" className="text-gray-600 hover:text-gray-800 transition-colors">+33 6 59 69 94 15</a></p>
+                <p><strong>Email :</strong> <a href="mailto:batifrance@outlook.fr" className="text-gray-600 hover:text-gray-800 transition-colors">batifrance@outlook.fr</a></p>
               </div>
             </div>
 
@@ -111,7 +111,7 @@ export default function MentionsLegalesPage() {
                   Tous les droits de reproduction sont réservés, y compris pour les documents téléchargeables et les représentations iconographiques et photographiques.
                 </p>
                 <p>
-                  La reproduction de tout ou partie de ce site sur un support électronique quel qu'il soit est formellement interdite sauf autorisation expresse d'EXFACTOR.
+                  La reproduction de tout ou partie de ce site sur un support électronique quel qu'il soit est formellement interdite sauf autorisation expresse de Bati France.
                 </p>
                 <p>
                   Les marques citées sur ce site sont déposées par les sociétés qui en sont propriétaires.
@@ -129,7 +129,7 @@ export default function MentionsLegalesPage() {
                 </p>
                 <p>
                   Si vous constatez une lacune, erreur ou ce qui parait être un dysfonctionnement, merci de bien vouloir le signaler par email 
-                  à l'adresse <a href="mailto:exfactor.fr@gmail.com" className="text-gray-600 hover:text-gray-800 transition-colors">exfactor.fr@gmail.com</a> 
+                  à l'adresse <a href="mailto:batifrance@outlook.fr" className="text-gray-600 hover:text-gray-800 transition-colors">batifrance@outlook.fr</a> 
                   en décrivant le problème de la manière la plus précise possible.
                 </p>
                 <p>
@@ -144,10 +144,10 @@ export default function MentionsLegalesPage() {
               <div className="space-y-4 text-gray-600 leading-relaxed">
                 <p>
                   Les sites internet peuvent offrir des liens vers d'autres sites internet ou d'autres ressources disponibles sur Internet. 
-                  EXFACTOR ne dispose d'aucun moyen pour contrôler les sites en connexion avec ses sites internet.
+                  Bati France ne dispose d'aucun moyen pour contrôler les sites en connexion avec ses sites internet.
                 </p>
                 <p>
-                  EXFACTOR ne répond pas de la disponibilité de tels sites et sources externes, ni ne la garantit. 
+                  Bati France ne répond pas de la disponibilité de tels sites et sources externes, ni ne la garantit. 
                   Elle ne peut être tenue pour responsable de tout dommage, de quelque nature que ce soit, résultant du contenu de ces sites ou sources externes.
                 </p>
               </div>
@@ -162,7 +162,7 @@ export default function MentionsLegalesPage() {
                   la loi n° 2004-801 du 6 août 2004, l'article L. 226-13 du Code pénal et la Directive Européenne du 24 octobre 1995.
                 </p>
                 <p>
-                  Sur le site <strong>exfactor-batiment.fr</strong>, EXFACTOR ne collecte des informations personnelles 
+                  Sur le site <strong>batifrance.fr</strong>, Bati France ne collecte des informations personnelles 
                   relatives à l'utilisateur que pour le besoin de certains services proposés par le site. 
                   L'utilisateur fournit ces informations en toute connaissance de cause, notamment lorsqu'il procède par lui-même à leur saisie.
                 </p>
@@ -172,7 +172,7 @@ export default function MentionsLegalesPage() {
                   aux données personnelles le concernant.
                 </p>
                 <p>
-                  Pour l'exercer, adressez-vous à : <a href="mailto:exfactor.fr@gmail.com" className="text-gray-600 hover:text-gray-800 transition-colors">exfactor.fr@gmail.com</a>
+                  Pour l'exercer, adressez-vous à : <a href="mailto:batifrance@outlook.fr" className="text-gray-600 hover:text-gray-800 transition-colors">batifrance@outlook.fr</a>
                 </p>
               </div>
             </div>
@@ -182,7 +182,7 @@ export default function MentionsLegalesPage() {
               <h2 className="text-2xl font-bold text-gray-900 mb-6">Cookies</h2>
               <div className="space-y-4 text-gray-600 leading-relaxed">
                 <p>
-                  Le site <strong>exfactor-batiment.fr</strong> peut être amené à vous demander l'acceptation de cookies pour des besoins de statistiques et d'affichage. 
+                  Le site <strong>batifrance.fr</strong> peut être amené à vous demander l'acceptation de cookies pour des besoins de statistiques et d'affichage. 
                   Un cookie est une information déposée sur votre disque dur par le serveur du site que vous visitez.
                 </p>
                 <p>
@@ -201,7 +201,7 @@ export default function MentionsLegalesPage() {
                 <Calendar className="h-5 w-5 text-gray-600" />
                 <span className="text-sm font-semibold text-gray-700">Dernière mise à jour</span>
               </div>
-              <p className="text-gray-600">8 octobre 2024</p>
+              <p className="text-gray-600">24 octobre 2025</p>
             </div>
           </motion.div>
         </div>
