@@ -1,0 +1,216 @@
+{
+  "company": {
+    "name": "Oleg Bâtiment",
+    "legalName": "Oleg Bâtiment SARL",
+    "address": "Île-de-France, France",
+    "phone": "06 05 59 88 97",
+    "email": "exfactor.fr@gmail.com",
+    "siret": "À définir",
+    "ceo": "Oleg"
+  },
+  "hero": {
+    "title": "ExFactor : Rénovation haut de gamme de votre bien en Île-de-France",
+    "subtitle": "Artisan qualifié pour tous vos travaux de rénovation",
+    "buttonText": "Demander un devis",
+    "buttonHref": "#contact",
+    "backgroundImage": "/image-client/hero.png",
+    "backgroundVideo": null
+  },
+  "about": {
+    "sections": [
+      {
+        "smallTitle": "Notre savoir-faire",
+        "title": "Expertise multi-métiers du bâtiment",
+        "subtitle": "Électricité, placo peinture, menuiserie, cuisine & salle de bains, rénovation globale, sols carrelage",
+        "content": "Spécialisés dans l'électricité, le placo peinture, la menuiserie, les cuisines & salles de bains, la rénovation globale et sols carrelage, nous intervenons sur tous types de chantiers en Île-de-France. Notre équipe de 3 collaborateurs qualifiés vous garantit des travaux conformes aux normes en vigueur, avec la sécurité d'une garantie décennale. Nous privilégions la qualité et la satisfaction client sur chaque intervention.",
+        "gradientFrom": "#2563eb",
+        "gradientTo": "#3b82f6",
+        "buttonText": "Voir nos prestations",
+        "buttonHref": "#services",
+        "reversed": false
+      },
+      {
+        "smallTitle": "Notre zone d'intervention",
+        "title": "Service de proximité en Île-de-France",
+        "subtitle": "Intervention dans un rayon de 100km",
+        "content": "Basés en Île-de-France, nous intervenons dans un rayon de 100 kilomètres pour répondre rapidement à vos besoins. Que ce soit pour une installation électrique, des travaux de placo peinture, menuiserie, cuisine & salle de bains, rénovation globale ou sols carrelage, nous nous déplaçons chez vous avec tout le matériel nécessaire. Notre proximité géographique nous permet d'assurer un suivi personnalisé et des délais d'intervention optimisés.",
+        "gradientFrom": "#059669",
+        "gradientTo": "#10b981",
+        "buttonText": "Vérifier votre zone",
+        "buttonHref": "#contact",
+        "reversed": true,
+        "image": "/image-client/chantier/vinght-trois.jpeg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Nos Réalisations",
+    "subtitle": "Découvrez nos travaux d'électricité, placo peinture, menuiserie, cuisine & salle de bains, rénovation globale et sols carrelage en Île-de-France",
+    "initialDisplayCount": 4,
+    "images": [
+      {
+        "src": "/image-client/chantier/dix.jpeg",
+        "alt": "Réalisation chantier 1 - Île-de-France",
+        "title": "Réalisation chantier 1"
+      },
+      {
+        "src": "/image-client/chantier/deux.jpeg",
+        "alt": "Réalisation chantier 2 - Île-de-France",
+        "title": "Réalisation chantier 2"
+      },
+      {
+        "src": "/image-client/chantier/trois.jpeg",
+        "alt": "Réalisation chantier 3 - Île-de-France",
+        "title": "Réalisation chantier 3"
+      },
+      {
+        "src": "/image-client/chantier/quatre.jpeg",
+        "alt": "Réalisation chantier 4 - Île-de-France",
+        "title": "Réalisation chantier 4"
+      },
+      {
+        "src": "/image-client/chantier/cinq.jpeg",
+        "alt": "Réalisation chantier 5 - Île-de-France",
+        "title": "Réalisation chantier 5"
+      },
+      {
+        "src": "/image-client/chantier/six.jpeg",
+        "alt": "Réalisation chantier 6 - Île-de-France",
+        "title": "Réalisation chantier 6"
+      },
+      {
+        "src": "/image-client/chantier/sept.jpeg",
+        "alt": "Réalisation chantier 7 - Île-de-France",
+        "title": "Réalisation chantier 7"
+      },
+      {
+        "src": "/image-client/chantier/huit.jpeg",
+        "alt": "Réalisation chantier 8 - Île-de-France",
+        "title": "Réalisation chantier 8"
+      },
+      {
+        "src": "/image-client/chantier/neuf.jpeg",
+        "alt": "Réalisation chantier 9 - Île-de-France",
+        "title": "Réalisation chantier 9"
+      },
+      {
+        "src": "/image-client/chantier/un.jpeg",
+        "alt": "Réalisation chantier 10 - Île-de-France",
+        "title": "Réalisation chantier 10"
+      },
+      {
+        "src": "/image-client/chantier/onze.jpeg",
+        "alt": "Réalisation chantier 11 - Île-de-France",
+        "title": "Réalisation chantier 11"
+      },
+      {
+        "src": "/image-client/chantier/douze.jpeg",
+        "alt": "Réalisation chantier 12 - Île-de-France",
+        "title": "Réalisation chantier 12"
+      },
+      {
+        "src": "/image-client/chantier/treise.jpeg",
+        "alt": "Réalisation chantier 13 - Île-de-France",
+        "title": "Réalisation chantier 13"
+      },
+      {
+        "src": "/image-client/chantier/quatorze.jpeg",
+        "alt": "Réalisation chantier 14 - Île-de-France",
+        "title": "Réalisation chantier 14"
+      },
+      {
+        "src": "/image-client/chantier/quinze.jpeg",
+        "alt": "Réalisation chantier 15 - Île-de-France",
+        "title": "Réalisation chantier 15"
+      },
+      {
+        "src": "/image-client/chantier/seize.jpeg",
+        "alt": "Réalisation chantier 16 - Île-de-France",
+        "title": "Réalisation chantier 16"
+      },
+      {
+        "src": "/image-client/chantier/dix-sept.jpeg",
+        "alt": "Réalisation chantier 17 - Île-de-France",
+        "title": "Réalisation chantier 17"
+      },
+      {
+        "src": "/image-client/chantier/dix-huit.jpeg",
+        "alt": "Réalisation chantier 18 - Île-de-France",
+        "title": "Réalisation chantier 18"
+      },
+      {
+        "src": "/image-client/chantier/dix-neuf.jpeg",
+        "alt": "Réalisation chantier 19 - Île-de-France",
+        "title": "Réalisation chantier 19"
+      },
+      {
+        "src": "/image-client/chantier/vinght.jpeg",
+        "alt": "Réalisation chantier 20 - Île-de-France",
+        "title": "Réalisation chantier 20"
+      },
+      {
+        "src": "/image-client/chantier/vinght-un.jpeg",
+        "alt": "Réalisation chantier 21 - Île-de-France",
+        "title": "Réalisation chantier 21"
+      },
+      {
+        "src": "/image-client/chantier/vinght-deux.jpeg",
+        "alt": "Réalisation chantier 22 - Île-de-France",
+        "title": "Réalisation chantier 22"
+      },
+      {
+        "src": "/image-client/chantier/vinght-trois.jpeg",
+        "alt": "Réalisation chantier 23 - Île-de-France",
+        "title": "Réalisation chantier 23"
+      },
+      {
+        "src": "/image-client/chantier/vinght-quatre.jpeg",
+        "alt": "Réalisation chantier 24 - Île-de-France",
+        "title": "Réalisation chantier 24"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Devis gratuit et personnalisé pour vos travaux en Île-de-France"
+  },
+  "team": {
+    "members": [
+      {
+        "name": "Oleg",
+        "position": "Artisan du bâtiment",
+        "description": "Spécialisés en électricité, placo peinture, menuiserie, cuisine & salle de bains, rénovation globale et sols carrelage en Île-de-France. Notre équipe de 3 collaborateurs qualifiés intervient dans un rayon de 100km avec garantie décennale. Nous nous engageons à fournir des prestations de qualité avec des finitions soignées.",
+        "photo": "/image-client/client.jpg"
+      }
+    ]
+  },
+  "partners": {
+    "logos": [
+      {
+        "src": "/image-client/icon/decennale.png",
+        "alt": "Garantie décennale",
+        "name": "Garantie décennale"
+      },
+      {
+        "src": "/image-client/icon/qonto.png",
+        "alt": "Qonto",
+        "name": "Qonto"
+      },
+      {
+        "src": "/image-client/icon/SMA_BTP.png",
+        "alt": "SMA BTP",
+        "name": "SMA BTP"
+      },
+      {
+        "src": "/image-client/icon/tmc-partenaire.png",
+        "alt": "TMC Partenaire",
+        "name": "TMC Partenaire"
+      }
+    ]
+  },
+  "colors": {
+    "primary": "#2563eb",
+    "secondary": "#059669",
+    "accent": "#3b82f6"
+  }
+}
